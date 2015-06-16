@@ -1,0 +1,1 @@
+#define ClassHeapDef(cls) INIT_ONCE cls::initOnceHeap = {nullptr}; HANDLE cls::classHeap = nullptr; volatile LONG64 cls::allocationCount = 0;

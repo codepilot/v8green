@@ -1,0 +1,2 @@
+rem start "NodeJS" /D "C:\Users\dkluss\Google Drive\v8green\v8green" /B /HIGH /AFFINITY 0x01 /WAIT "C:\Users\dkluss\AppData\Local\Temp\v8green\x64\Release\v8green-x64-Release.exe"
+"C:\Users\dkluss\AppData\Local\Temp\v8green\x64\Release\v8green-x64-Release.exe"
